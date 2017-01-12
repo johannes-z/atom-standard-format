@@ -1,7 +1,7 @@
 {
   "name": "atom-standard-format",
   "main": "./lib/atom-standard-format",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Formats JavaScript in .js files and script tags. Based on atom-standard-formatter.",
   "keywords": [],
   "activationCommands": [],
