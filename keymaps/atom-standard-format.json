@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-standard-format:toggle"
+    "ctrl-alt-f": "atom-standard-format:format"
   }
 }
