@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-standard-format",
+        "command": "atom-standard-format:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-standard-format",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-standard-format:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
